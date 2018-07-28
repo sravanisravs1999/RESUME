@@ -1,0 +1,56 @@
+{
+	"details":{
+		"name":"Sravs",
+		"image":"webb.jpg",
+		"phone":"9999977777",
+		"email":"mavis.drac@gmail.com"
+
+	},
+	"education":[
+		{
+			"course":"B.Tech",
+			"college":"MIC college",
+			"Branch":"Computer Science and Engineering",
+			"percent":"82%"
+		},
+		{
+			"course":"Intermediate",
+			"college":"MRR college",
+			"percent":"95%"
+		},
+		{
+			"course":"SSC",
+			"school":"Golden buds",
+			"percent":"98%"
+		}
+	],
+     
+     "skills":[
+        {
+        	"title":"Programming Languages",
+        	"output":[
+
+                 "c","c++","java","python"
+                 ]        	          
+         },
+         {
+         	"title":"Operating Systems",
+         	"output":[
+         		"windows","Linux","MAC"
+         ]
+         }
+
+   ],
+   "career":{
+   	"co":"To fullfill my dreams without fail by securing a job with lots of satisfaction and holidays,and to visit some places with full of nature on my own salary"
+   }
+}
+
+
+
+     
+
+
+
+
+
